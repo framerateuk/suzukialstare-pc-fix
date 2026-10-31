@@ -1,0 +1,15 @@
+# Only the kit's own files: nothing from the game (a built SuzukiAlstareExtremeRacing/ folder included) or
+# third-party downloads
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/build.py
+!/patch_exe.py
+!/caves.s
+!/oggwinmm_fix.py
+!/disc.py
+!/config/
+!/docs/
+!/steamdeck/
+__pycache__/
